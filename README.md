@@ -71,7 +71,7 @@ Las visualizaciones permiten identificar patrones, comportamientos y relaciones 
 - 4_ventas_ecommerce_sucio_27072026.xlsx — Base de datos antes del proceso de limpieza.
 - ventas_ecommerce_limpio.csv — Base de datos resultante del proceso ETL.
 - proyectoETL.pbix - dashboard Visualizaciones construidas a partir de los datos procesados.
-- png dashboard
+- image.png - dashboard
   
 ## 📚 Aprendizajes
 
