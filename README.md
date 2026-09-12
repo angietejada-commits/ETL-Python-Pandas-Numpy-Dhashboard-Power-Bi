@@ -68,7 +68,7 @@ Las visualizaciones permiten identificar patrones, comportamientos y relaciones 
 ## 📁 Archivos del proyecto
 
 - 4_data_cleaning (1) proyecto ETL G Colab.ipynb — Notebook con el proceso de limpieza y transformación.
-- 4. ventas_ecommerce_sucio_27072026.xlsx — Base de datos antes del proceso de limpieza.
+- 4_ventas_ecommerce_sucio_27072026.xlsx — Base de datos antes del proceso de limpieza.
 - ventas_ecommerce_limpio.csv — Base de datos resultante del proceso ETL.
 - proyectoETL.pbix - dashboard Visualizaciones construidas a partir de los datos procesados.
 - png dashboard
