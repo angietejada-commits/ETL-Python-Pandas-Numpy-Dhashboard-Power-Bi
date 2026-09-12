@@ -1,0 +1,353 @@
+﻿id_cliente,nombre_completo,email,telefono,fecha_nacimiento,ciudad,genero,id_producto,producto,categoria,precio_unitario,cantidad,fecha_compra,metodo_pago,descuento,activo,duplicados,revisar_fecha,atipicos_precio,emails_invalidos,edad_actual,rango_edad
+1008,isabella torres,isabella.torres261@hotmail.com,3259514846,1977-04-09,cartagena,masculino,1015,peluche grande,jugueteria,35000,2,2023-01-01,pse,20%,no,si,no,sin novedad,ok,49,adulto
+1176,daniela ortiz,daniela.ortiz470@hotmail.com,3264911110,1999-02-07,cartagena,masculino,1351,teclado mecanico,tecnologia,120000,1,2023-02-10,pse,20%,0,si,no,sin novedad,ok,27,joven adulto
+1173,felipe mendoza,felipe.mendoza369@yahoo.com,3291297102,1994-10-10,cali,femenino,1345,set de brochas,belleza,500000,2,2023-04-18,efectivo,0%,0,si,no,sin novedad,ok,31,joven adulto
+1171,carolina gomez,carolina.gomez516@hotmail.com,3198436241,2000-10-03,medellin,femenino,1341,muneca articulada,jugueteria,60000,3,2023-10-16,nequi,0%,True,si,no,sin novedad,ok,25,joven adulto
+1031,camila garcia,camila.garcia511@hotmail.com,3187339500,2004-08-14,cartagena,masculino,1066,perfume 50ml,belleza,60000,4,2024-02-17,tarjeta de credito,0%,0,si,no,sin novedad,ok,22,joven adulto
+1101,carlos jimenez,carlos.jimenez64@yahoo.com,3036965666,1992-03-24,cartagena,femenino,1203,botella termica,deportes,150000,5,2023-02-04,nequi,0%,no,si,no,sin novedad,ok,34,adulto
+1029,maria gomez,maria.gomez721@yahoo.com,3072715518,2004-01-25,barranquilla,femenino,1061,jean slim fit,moda,80000,2,2024-01-05,nequi,0%,No,si,no,sin novedad,ok,22,joven adulto
+1144,david vargas,david.vargas654@outlook.com,3134669254,1978-03-18,barranquilla,masculino,1286,lampara led,hogar,150000,5,2024-04-06,efectivo,20%,0,si,no,sin novedad,ok,48,adulto
+1017,mariana mendoza,mariana.mendoza349@outlook.com,3272787558,1985-05-17,medellin,masculino,1031,mancuernas 5kg,deportes,1200000,2,2024-04-29,efectivo,0%,no,si,no,sin novedad,ok,41,adulto
+1121,diego gomez,diego.gomez331@outlook.com,5732529456,1978-06-22,cartagena,masculino,1239,lampara led,hogar,15000,4,2024-08-15,nequi,0%,SI,si,no,sin novedad,ok,48,adulto
+1051,maria rojas,maria.rojas725gmail.com,3242524105,1991-02-07,bogota,femenino,1105,audifonos bluetooth,tecnologia,15000000,4,2023-02-06,daviplata,0%,0,si,no,reemplazado pc 95,sin email,35,adulto
+1140,carlos lopez,carlos.lopez994@gmail.com,3205664187,2000-09-21,cartagena,masculino,1278,cargador usb-c,tecnologia,35000,0,2023-01-25,daviplata,20%,0,si,no,sin novedad,ok,25,joven adulto
+1122,alejandro hernandez,alejandro.hernandez416@hotmail.com,3160324204,1987-11-10,cali,femenino,1242,crema facial,belleza,1200000,1,2023-03-07,pse,0%,True,si,no,sin novedad,ok,38,adulto
+1040,natalia vargas,natalia.vargas661@outlook.com,3039740148,1968-07-21,bogota,femenino,1085,mouse inalambrico,tecnologia,15000,2,2023-03-20,tarjeta debito,10%,Sí,si,no,sin novedad,ok,58,adulto
+1043,andres mendoza,andres.mendoza719@yahoo.com,5732529096,1967-08-16,barranquilla,femenino,1091,cargador usb-c,tecnologia,200000,5,2024-04-19,daviplata,0%,no,no,no,sin novedad,ok,59,adulto
+1173,felipe mendoza,felipe.mendoza369@yahoo.com,3291297102,1994-10-10,cali,femenino,1343,audifonos bluetooth,tecnologia,15000000,2,2023-03-14,daviplata,0%,True,si,no,reemplazado pc 95,ok,31,joven adulto
+1095,fernando rojas,fernando.rojas403@hotmail.com,3121117518,1978-02-11,cartagena,femenino,1189,guantes de gimnasio,deporte,25000,2,2023-08-01,tarjeta debito,15%,Si,si,no,sin novedad,ok,48,adulto
+1134,carolina jimenez,carolina.jimenez292@yahoo.com,3015893571,1972-07-22,bucaramanga,femenino,1268,rompecabezas 500pzs,jugueteria,35000,4,2024-06-25,daviplata,0%,True,si,no,sin novedad,ok,54,adulto
+1125,juliana hernandez,juliana.hernandez242@yahoo.com,0000000000,2001-02-07,barranquilla,femenino,1250,chaqueta impermeable,moda,35000,1,2023-12-14,tarjeta debito,,SI,si,no,sin novedad,ok,25,joven adulto
+1122,alejandro hernandez,alejandro.hernandez416@hotmail.com,3160324204,1987-11-10,cali,femenino,1244,gorra deportiva,moda,60000,4,2024-07-12,efectivo,0%,0,si,no,sin novedad,ok,38,adulto
+1016,andrea rojas,andrea.rojas886@outlook.com,0000000000,2001-06-12,cali,femenino,1029,perfume 50ml,belleza,15000,2,2023-05-05,daviplata,0%,True,si,no,sin novedad,ok,25,joven adulto
+1064,juliana sanchez,juliana.sanchez642@gmail.com,3294210447,1987-12-31,cali,mujer,1130,audifonos bluetooth,tecnologia,15000000,5,2023-04-21,tarjeta de credito,5%,SI,si,no,reemplazado pc 95,ok,38,adulto
+1170,valentina rojas,valentina.rojas58@hotmail.com,3265019179,1972-11-01,cartagena,femenino,1339,set de ollas,hogar,25000,5,2024-04-26,daviplata,0%,SI,no,no,sin novedad,ok,53,adulto
+1102,luis moreno,luis.moreno252@gmail.com,3190580778,1967-01-02,cali,femenino,1206,rompecabezas 500pzs,jugueteria,35000000,2,2023-12-18,tarjeta debito,0%,no,si,no,reemplazado pc 95,ok,59,adulto
+1038,gabriela sanchez,gabriela.sanchez690outlook.com,3140331739,1979-06-21,bucaramanga,femenino,1080,lampara led,hogar,30749999,3,2023-04-11,pse,0%,SI,si,no,reemplazado pc 95,sin email,47,adulto
+1122,alejandro hernandez,alejandro.hernandez416@hotmail.com,3160324204,1987-11-10,cali,femenino,1243,power bank 10000mah,tecnologia,200000,2,2024-08-21,daviplata,0%,True,si,no,sin novedad,ok,38,adulto
+1027,valentina perez,valentina.perez612@outlook.com,5732539621,1972-11-17,barranquilla,femenino,1058,protector solar,belleza,150000,3,2023-06-12,tarjeta de credito,5%,no,si,no,sin novedad,ok,53,adulto
+1116,juan lopez,juan.lopez105@hotmail.com,3012075452,1970-03-23,cali,masculino,1233,shampoo reparador,belleza,500000,2,2023-12-23,tarjeta debito,0%,Sí,si,no,sin novedad,ok,56,adulto
+1124,carlos sanchez,carlos.sanchez781@gmail.com,3245911238,1972-03-17,bucaramanga,masculino,1247,juego de sabanas,hogar,200000,1,2023-06-22,efectivo,10%,True,si,no,sin novedad,ok,54,adulto
+1142,andres moreno,andres.moreno608@gmail.com,3197232002,2005-08-27,medellin,femenino,1281,mouse inalambrico,tecnologia,45000,1,2024-04-23,daviplata,10%,True,si,no,sin novedad,ok,21,joven adulto
+1155,juliana lopez,juliana.lopez634@outlook.com,3105057397,1976-11-10,bogota,femenino,1308,mancuernas 5kg,deportes,1200000,1,2024-05-18,daviplata,0%,0,si,no,sin novedad,ok,49,adulto
+1057,luis garcia,luis.garcia187@gmail.com,3125135521,1979-10-26,bucaramanga,masculino,1115,cargador usb-c,tecnologia,15000000,3,2024-03-24,tarjeta debito,5%,0,si,no,reemplazado pc 95,ok,46,adulto
+1101,carlos jimenez,carlos.jimenez64@yahoo.com,3036965666,1992-03-24,cartagena,femenino,1201,organizador plastico,hogar,35000,3,2024-11-17,tarjeta debito,,True,si,no,sin novedad,ok,34,adulto
+1146,camila hernandez,camila.hernandez349@outlook.com,3205292407,1997-06-21,cartagena,hombre,1289,teclado mecanico,tecnologia,15000000,5,2023-06-25,daviplata,0%,Si,si,no,reemplazado pc 95,ok,29,joven adulto
+1047,luis lopez,luis.lopez502@outlook.com,5730684577,1993-08-28,bucaramanga,femenino,1099,balon de futbol,deportes,15000,1,2023-01-01,tarjeta debito,0%,True,si,no,sin novedad,ok,33,adulto
+1002,camila rodriguez,camila.rodriguez218@yahoo.com,3088496965,2001-03-01,barranquilla,femenino,1004,crema facial,belleza,15000,2,2024-01-26,efectivo,0%,No,no,no,sin novedad,ok,25,joven adulto
+1092,camila castro,camila.castro191@gmail.com,3245762055,1961-12-05,bucaramanga,masculino,1182,bufanda de lana,moda,20000000,4,2024-07-22,tarjeta debito,0%,No,si,no,reemplazado pc 95,ok,64,mayor a 60 años
+1175,carlos lopez,carlos.lopez893@outlook.com,3154235677,1976-07-06,barranquilla,masculino,1347,lampara led,hogar,1200000,5,2024-11-14,nequi,15%,Si,si,no,sin novedad,ok,50,adulto
+1076,carlos diaz,carlos.diaz940outlook.com,3244989266,1989-01-27,bogota,masculino,1151,muneca articulada,jugueteria,35000000,5,2023-12-05,efectivo,0%,True,si,no,reemplazado pc 95,sin email,37,adulto
+1103,sebastian castro,sebastian.castro56@yahoo.com,3178366742,1975-01-13,barranquilla,femenino,1207,teclado mecanico,tecnologia,120000,1,2024-03-18,daviplata,0%,True,si,no,sin novedad,ok,51,adulto
+1047,luis lopez,luis.lopez502@outlook.com,5730684577,1993-08-28,bucaramanga,femenino,1100,mouse inalambrico,tecnologia,60000,1,2023-08-28,daviplata,,Si,si,no,sin novedad,ok,33,adulto
+1074,natalia suarez,natalia.suarez928@outlook.com,3012908781,1979-10-22,cali,masculino,1146,audifonos bluetooth,tecnologia,45000,3,2023-10-19,tarjeta de credito,0%,no,si,no,sin novedad,ok,46,adulto
+1124,carlos sanchez,carlos.sanchez781@gmail.com,3245911238,1972-03-17,bucaramanga,masculino,1246,carro a control remoto,jugueteria,150000,3,2023-10-16,tarjeta de credito,0%,SI,si,no,sin novedad,ok,54,adulto
+1015,alejandro lopez,alejandro.lopez610@yahoo.com,5732648877,1971-02-26,medellin,femenino,1027,peluche grande,jugueteria,60000,-5,2024-11-19,nequi,,no,si,no,sin novedad,ok,55,adulto
+1156,alejandro suarez,alejandro.suarez298@gmail.com,3056904098,1976-11-17,barranquilla,femenino,1310,set de ollas,hogar,1200000,5,2023-10-08,efectivo,0%,True,si,no,sin novedad,ok,49,adulto
+1169,carolina martinez,carolina.martinez400@hotmail.com,3242152265,1966-01-14,medellin,femenino,1337,guantes de gimnasio,deporte,35000000,2,2024-03-04,efectivo,0%,SI,si,no,sin novedad,ok,60,adulto
+1057,luis garcia,luis.garcia187@gmail.com,3125135521,1979-10-26,bucaramanga,masculino,1116,mancuernas 5kg,deportes,150000,0,2023-04-18,pse,0%,No,si,no,sin novedad,ok,46,adulto
+1099,valentina gomez,valentina.gomez294@hotmail.com,3110988138,1970-07-22,cali,masculino,1195,jean slim fit,moda,20000000,2,2024-07-07,tarjeta de credito,0%,No,si,no,reemplazado pc 95,ok,56,adulto
+1038,gabriela sanchez,gabriela.sanchez690outlook.com,3140331739,1979-06-21,bucaramanga,femenino,1081,bloques de construccion,jugueteria,60000,5,2023-08-24,nequi,5%,True,si,no,sin novedad,sin email,47,adulto
+1026,fernando mendoza,fernando.mendoza374@outlook.com,3047359774,1985-07-24,medellin,masculino,1053,shampoo reparador,belleza,45000,3,2023-04-16,tarjeta de credito,0%,True,si,no,sin novedad,ok,41,adulto
+1034,mariana ramirez,mariana.ramirez466@yahoo.com,3015274205,1972-01-15,bogota,femenino,1075,jean slim fit,moda,45000,2,2024-12-19,efectivo,0%,0,si,no,sin novedad,ok,54,adulto
+1134,carolina jimenez,carolina.jimenez292@yahoo.com,3015893571,1972-07-22,bucaramanga,femenino,1267,balon de futbol,deporte,25000,4,2024-02-17,nequi,5%,no,si,no,sin novedad,ok,54,adulto
+1039,juliana vargas,juliana.vargas189@outlook.com,0000000000,1965-04-08,bucaramanga,femenino,1082,teclado mecanico,tecnologia,35000,-1,2024-06-01,pse,,no,si,no,sin novedad,ok,61,mayor a 60 años
+1129,sebastian moreno,sebastian.moreno864@hotmail.com,3179452321,1986-09-14,bucaramanga,masculino,1257,gorra deportiva,moda,60000,1,2023-07-12,tarjeta debito,0%,SI,si,no,sin novedad,ok,39,adulto
+1163,andrea sanchez,andrea.sanchez6@gmail.com,3018826170,1960-10-17,barranquilla,masculino,1322,gorra deportiva,moda,20000000,4,2024-03-25,tarjeta debito,15%,Si,si,no,reemplazado pc 95,ok,65,mayor a 60 años
+1042,valentina torres,valentina.torres988@hotmail.com,3164651939,2004-01-19,bucaramanga,masculino,1090,rompecabezas 500pzs,jugueteria,35000000,1,2024-05-26,daviplata,0%,SI,no,no,reemplazado pc 95,ok,22,joven adulto
+1162,carolina rojas,carolina.rojas971@gmail.com,3029014870,1967-02-17,cali,femenino,1321,set de brochas,belleza,17000000,0,2024-08-05,tarjeta debito,0%,no,si,no,reemplazado pc 95,ok,59,adulto
+1040,natalia vargas,natalia.vargas661@outlook.com,3039740148,1968-07-21,bogota,femenino,1087,colchoneta yoga,deportes,200000,2,2024-09-25,tarjeta debito,0%,True,si,no,sin novedad,ok,58,adulto
+1080,juan martinez,juan.martinez232@yahoo.com,3218184518,1960-01-06,cartagena,masculino,1158,perfume 50ml,belleza,120000,3,2024-08-23,efectivo,0%,0,si,no,sin novedad,ok,66,mayor a 60 años
+1105,carlos jimenez,carlos.jimenez956@gmail.com,3277661830,1989-08-03,barranquilla,masculino,1211,botella termica,deportes,31999999,3,2024-10-24,pse,0%,no,si,no,reemplazado pc 95,ok,37,adulto
+1026,fernando mendoza,fernando.mendoza374@outlook.com,3047359774,1985-07-24,medellin,masculino,1054,juego de sabanas,hogar,30749999,1,2024-01-31,pse,0%,0,si,no,reemplazado pc 95,ok,41,adulto
+1136,valentina suarez,valentina.suarez981@gmail.com,3220433971,1961-09-03,bucaramanga,femenino,1271,bufanda de lana,moda,15000,3,2023-11-21,pse,,Sí,si,no,sin novedad,ok,65,mayor a 60 años
+1160,camila rodriguez,camila.rodriguez606@hotmail.com,3126714628,1966-09-02,cali,femenino,1316,muneca articulada,jugueteria,1200000,5,2024-03-20,tarjeta de credito,0%,True,no,no,sin novedad,ok,60,adulto
+1168,diego lopez,diego.lopez556@gmail.com,3272457230,1978-02-24,cartagena,femenino,1334,bufanda de lana,moda,25000,1,2024-03-01,tarjeta de credito,0%,SI,si,no,sin novedad,ok,48,adulto
+1078,julian mendoza,julian.mendoza715@gmail.com,3291624731,1994-03-15,bogota d.c.,masculino,1155,botella termica,deportes,60000,2,2024-01-15,nequi,0%,SI,si,no,sin novedad,ok,32,adulto
+1086,mariana torres,mariana.torres654@outlook.com,5731024916,1970-02-17,bucaramanga,femenino,1171,peluche grande,jugueteria,35000,2,2024-10-02,tarjeta de credito,0%,True,si,no,sin novedad,ok,56,adulto
+1049,ricardo castro,ricardo.castro661@yahoo.com,5732438983,1985-07-24,barranquilla,femenino,1102,balon de futbol,deporte,45000,1,2023-11-21,efectivo,10%,0,no,no,sin novedad,ok,41,adulto
+1075,alejandro gomez,alejandro.gomez557@yahoo.com,3242788165,1973-02-05,cartagena,femenino,1149,peluche grande,jugueteria,500000,2,2024-11-06,daviplata,0%,0,no,no,sin novedad,ok,53,adulto
+1142,andres moreno,andres.moreno608@gmail.com,3197232002,2005-08-27,medellin,femenino,1282,audifonos bluetooth,tecnologia,150000,2,2024-07-05,daviplata,0%,Si,si,no,sin novedad,ok,21,joven adulto
+1150,daniela moreno,daniela.moreno957@hotmail.com,5730065063,1979-03-07,cali,femenino,1297,cortina blackout,hogar,25000,2,2023-10-31,tarjeta debito,0%,0,si,no,sin novedad,ok,47,adulto
+1058,santiago mendoza,santiago.mendoza622@hotmail.com,3284443106,1978-06-10,barranquilla,hombre,1119,bloques de construccion,jugueteria,500000,4,2024-02-01,efectivo,15%,0,si,no,sin novedad,ok,48,adulto
+1155,juliana lopez,juliana.lopez634@outlook.com,3105057397,1976-11-10,bogota,femenino,1306,set de brochas,belleza,120000,1,2023-05-27,nequi,0%,True,si,no,sin novedad,ok,49,adulto
+1161,manuela suarez,manuela.suarez150@yahoo.com,3028497185,1979-12-08,cali,masculino,1317,protector solar,belleza,25000,3,2024-11-25,nequi,20%,no,si,no,sin novedad,ok,46,adulto
+1008,isabella torres,isabella.torres261@hotmail.com,3259514846,1977-04-09,cartagena,masculino,1016,shampoo reparador,belleza,500000,5,2024-11-19,tarjeta debito,0%,Si,si,no,sin novedad,ok,49,adulto
+1114,sebastian castro,sebastian.castro728@outlook.com,5730494787,1994-01-04,barranquilla,masculino,1229,gorra deportiva,moda,20000000,4,2023-01-30,pse,0%,no,no,no,reemplazado pc 95,ok,32,adulto
+1090,felipe gonzalez,felipe.gonzalez228@gmail.com,3208641686,1990-02-27,bucaramanga,masculino,1179,guantes de gimnasio,deportes,120000,5,2023-03-15,efectivo,0%,No,no,no,sin novedad,ok,36,adulto
+1176,daniela ortiz,daniela.ortiz470@hotmail.com,3264911110,1999-02-07,cartagena,masculino,1351,teclado mecanico,tecnologia,120000,1,2023-02-10,pse,20%,0,si,no,sin novedad,ok,27,joven adulto
+1020,luis rodriguez,luis.rodriguez909@hotmail.com,3061796405,1997-08-07,cali,femenino,1038,colchoneta yoga,deportes,2500000,5,2023-10-10,tarjeta de credito,20%,No,si,no,sin novedad,ok,29,joven adulto
+1001,alejandro perez,alejandro.perez693@gmail.com,3089083863,1962-11-07,cali,femenino,1003,lampara led,hogar,45000,5,2024-04-18,pse,0%,0,si,no,sin novedad,ok,63,mayor a 60 años
+1030,fernando perez,fernando.perez355@hotmail.com,3242498182,1967-01-28,cali,femenino,1063,cortina blackout,hogar,30749999,5,2024-10-18,pse,20%,Si,si,no,reemplazado pc 95,ok,59,adulto
+1080,juan martinez,juan.martinez232@yahoo.com,3218184518,1960-01-06,cartagena,masculino,1160,organizador plastico,hogar,1200000,3,2024-09-25,tarjeta debito,0%,no,si,no,sin novedad,ok,66,mayor a 60 años
+1069,mariana jimenez,mariana.jimenez544@gmail.com,3092216995,2003-04-29,barranquilla,femenino,1139,muneca articulada,jugueteria,1200000,5,2023-12-27,efectivo,15%,Sí,si,no,sin novedad,ok,23,joven adulto
+1166,julian suarez,julian.suarez495@gmail.com,3224090367,1961-12-17,cali,femenino,1330,jean slim fit,moda,60000,1,2023-02-10,pse,0%,0,si,no,sin novedad,ok,64,mayor a 60 años
+1137,alejandro gonzalez,alejandro.gonzalez312@hotmail.com,5730582386,2004-11-23,bogota,femenino,1274,mancuernas 5kg,deportes,15000,3,2023-12-26,nequi,0%,True,no,no,sin novedad,ok,21,joven adulto
+1072,felipe gonzalez,felipe.gonzalez95@outlook.com,3287801573,1989-09-13,cartagena,femenino,1142,lampara led,hogar,120000,4,2024-06-13,nequi,5%,Si,si,no,sin novedad,ok,36,adulto
+1034,mariana ramirez,mariana.ramirez466@yahoo.com,3015274205,1972-01-15,bogota,femenino,1074,chaqueta impermeable,moda,350000,3,2023-05-02,pse,15%,No,si,no,sin novedad,ok,54,adulto
+1056,felipe sanchez,felipe.sanchez273@hotmail.com,5731522395,1979-09-07,medellin,femenino,1112,peluche grande,jugueteria,350000,4,2023-02-27,nequi,10%,Si,si,no,sin novedad,ok,47,adulto
+1082,andrea castro,andrea.castro488@yahoo.com,3245061593,1983-04-22,medellin,femenino,1164,carro a control remoto,jugueteria,80000,4,2024-09-20,efectivo,0%,0,si,no,sin novedad,ok,43,adulto
+1159,valentina jimenez,valentina.jimenez404@gmail.com,3281312920,2003-10-31,cali,femenino,1314,camiseta algodon,moda,35000,1,2023-05-08,pse,0%,SI,si,no,sin novedad,ok,22,joven adulto
+1088,andres rodriguez,andres.rodriguez844@gmail.com,3211386338,1987-04-07,bucaramanga,masculino,1175,peluche grande,jugueteria,1200000,5,2023-04-17,tarjeta debito,10%,True,si,no,sin novedad,ok,39,adulto
+1041,juliana castro,juliana.castro369@outlook.com,3058199560,2005-12-21,bogota,femenino,1089,gorra deportiva,moda,350000,-1,2024-10-02,nequi,20%,no,si,no,sin novedad,ok,20,joven adulto
+1121,diego gomez,diego.gomez331@outlook.com,5732529456,1978-06-22,cartagena,masculino,1240,peluche grande,jugueteria,60000,3,2024-04-09,tarjeta debito,0%,no,si,no,sin novedad,ok,48,adulto
+1131,david castro,david.castro819@outlook.com,3029716743,1967-09-25,bucaramanga,masculino,1262,camiseta algodon,moda,200000,5,2024-03-24,tarjeta de credito,0%,Sí,si,no,sin novedad,ok,58,adulto
+1031,camila garcia,camila.garcia511@hotmail.com,3187339500,2004-08-14,cartagena,masculino,1067,botella termica,deporte,60000,5,2023-12-14,pse,0%,Sí,si,no,sin novedad,ok,22,joven adulto
+1165,felipe ortiz,felipe.ortiz966@yahoo.com,0000000000,1964-04-07,cali,masculino,1328,organizador plastico,hogar,25000,5,2023-07-26,daviplata,0%,SI,si,no,sin novedad,ok,62,mayor a 60 años
+1050,sebastian vargas,sebastian.vargas221@yahoo.com,3266618892,2005-06-13,bogota,femenino,1103,bufanda de lana,moda,45000,5,2024-10-27,pse,0%,Si,no,no,sin novedad,ok,21,joven adulto
+1131,david castro,david.castro819@outlook.com,3029716743,1967-09-25,bucaramanga,masculino,1263,set de ollas,hogar,30749999,4,2023-07-06,pse,0%,no,si,no,reemplazado pc 95,ok,58,adulto
+1089,maria rodriguez,maria.rodriguez239@hotmail.com,3127919409,1979-07-04,medellin,masculino,1178,mouse inalambrico,tecnologia,120000,2,2024-10-11,tarjeta de credito,0%,Sí,no,no,sin novedad,ok,47,adulto
+1159,valentina jimenez,valentina.jimenez404@gmail.com,3281312920,2003-10-31,cali,femenino,1315,mouse inalambrico,tecnologia,15000,3,2024-12-12,nequi,0%,No,si,no,sin novedad,ok,22,joven adulto
+1009,sofia martinez,sofia.martinez507@outlook.com,3287083172,1969-07-24,bucaramanga,mujer,1017,protector solar,belleza,80000,5,2024-07-15,tarjeta debito,5%,True,si,no,sin novedad,ok,57,adulto
+1152,camila ortiz,camila.ortiz991@outlook.com,5730776896,1967-06-03,medellin,masculino,1299,colchoneta yoga,deportes,350000,2,2024-01-20,nequi,0%,no,si,no,sin novedad,ok,59,adulto
+1103,sebastian castro,sebastian.castro56@yahoo.com,3178366742,1975-01-13,barranquilla,femenino,1208,rompecabezas 500pzs,jugueteria,500000,2,2023-11-17,tarjeta de credito,0%,Si,si,no,sin novedad,ok,51,adulto
+1033,laura rojas,laura.rojas197@outlook.com,3275758441,1986-09-13,cali,masculino,1071,power bank 10000mah,tecnologia,45000,2,2024-04-28,daviplata,0%,SI,si,no,sin novedad,ok,39,adulto
+1161,manuela suarez,manuela.suarez150@yahoo.com,3028497185,1979-12-08,cali,masculino,1318,power bank 10000mah,tecnologia,15000000,2,2024-10-16,daviplata,15%,no,si,no,reemplazado pc 95,ok,46,adulto
+1087,gabriela sanchez,gabriela.sanchez195@outlook.com,3111810220,1985-05-26,medellin,mujer,1174,balon de futbol,deportes,15000,4,2024-01-11,nequi,0%,no,no,no,sin novedad,ok,41,adulto
+1005,jorge perez,jorge.perez885@outlook.com,3113338726,1968-10-29,barranquilla,masculino,1008,guantes de gimnasio,deportes,60000,3,2024-07-23,tarjeta debito,0%,Sí,si,no,sin novedad,ok,57,adulto
+1082,andrea castro,andrea.castro488@yahoo.com,3245061593,1983-04-22,medellin,femenino,1166,lampara led,hogar,1200000,2,2024-04-29,tarjeta de credito,,Sí,si,no,sin novedad,ok,43,adulto
+1059,miguel rodriguez,miguel.rodriguez178@outlook.com,0000000000,1977-04-16,cartagena,femenino,1121,protector solar,belleza,25000,1,2024-02-25,efectivo,10%,Si,si,no,sin novedad,ok,49,adulto
+1012,daniela jimenez,daniela.jimenez769@hotmail.com,3073545494,1962-07-29,medellin,masculino,1023,crema facial,belleza,45000,5,2024-05-17,tarjeta de credito,,SI,no,no,sin novedad,ok,64,mayor a 60 años
+1025,andres moreno,andres.moreno419@outlook.com,3264492519,1990-01-08,medellin,masculino,1051,gorra deportiva,moda,35000,3,2023-05-11,tarjeta de credito,5%,Si,si,no,sin novedad,ok,36,adulto
+1157,andrea torres,andrea.torres946@gmail.com,3220865675,1995-02-24,bucaramanga,mujer,1311,mouse inalambrico,tecnologia,60000,5,2024-08-17,daviplata,0%,True,si,no,sin novedad,ok,31,joven adulto
+1150,daniela moreno,daniela.moreno957@hotmail.com,5730065063,1979-03-07,cali,femenino,1296,set de ollas,hogar,30749999,-4,2024-08-22,efectivo,0%,Sí,si,no,reemplazado pc 95,ok,47,adulto
+1009,sofia martinez,sofia.martinez507@outlook.com,3287083172,1969-07-24,bucaramanga,mujer,1019,gorra deportiva,moda,120000,4,2024-08-12,efectivo,Sin dato,True,si,no,sin novedad,ok,57,adulto
+1074,natalia suarez,natalia.suarez928@outlook.com,3012908781,1979-10-22,cali,masculino,1148,bufanda de lana,moda,25000,1,2024-07-05,pse,0%,No,si,no,sin novedad,ok,46,adulto
+1118,andres mendoza,andres.mendoza298@outlook.com,3271678112,2002-03-09,bucaramanga,femenino,1236,mancuernas 5kg,deportes,31999999,4,2023-04-12,tarjeta de credito,0%,SI,si,no,reemplazado pc 95,ok,24,joven adulto
+1011,sebastian rodriguez,sebastian.rodriguez245@hotmail.com,5731299124,1979-07-22,medellin,femenino,1021,perfume 50ml,belleza,120000,1,2024-12-14,daviplata,0%,0,si,no,sin novedad,ok,47,adulto
+1027,valentina perez,valentina.perez612@outlook.com,5732539621,1972-11-17,barranquilla,femenino,1056,protector solar,belleza,200000,1,2023-01-17,tarjeta de credito,0%,0,si,no,sin novedad,ok,53,adulto
+1095,fernando rojas,fernando.rojas403@hotmail.com,3121117518,1978-02-11,cartagena,femenino,1188,jean slim fit,moda,25000,1,2024-05-25,tarjeta de credito,0%,0,si,no,sin novedad,ok,48,adulto
+1162,carolina rojas,carolina.rojas971@gmail.com,3029014870,1967-02-17,cali,femenino,1320,shampoo reparador,belleza,500000,2,2023-12-28,efectivo,0%,No,si,no,sin novedad,ok,59,adulto
+1136,valentina suarez,valentina.suarez981@gmail.com,3220433971,1961-09-03,bucaramanga,femenino,1272,juego de sabanas,hogar,35000,2,2024-12-31,pse,0%,SI,si,no,sin novedad,ok,65,mayor a 60 años
+1129,sebastian moreno,sebastian.moreno864@hotmail.com,3179452321,1986-09-14,bucaramanga,masculino,1256,rompecabezas 500pzs,jugueteria,35000000,0,2024-05-03,daviplata,15%,True,si,no,reemplazado pc 95,ok,39,adulto
+1066,diego rojas,diego.rojas437@yahoo.com,3225579415,1964-02-12,medellin,masculino,1133,teclado mecanico,tecnologia,150000,4,2023-04-26,daviplata,0%,No,no,no,sin novedad,ok,62,mayor a 60 años
+1070,carolina gomez,carolina.gomez205@gmail.com,3243805719,1982-06-24,bogota d.c.,femenino,1140,muneca articulada,jugueteria,35000000,1,2024-02-12,nequi,-,0,no,no,reemplazado pc 95,ok,44,adulto
+1138,carlos ramirez,carlos.ramirez900@yahoo.com,3274355379,1988-07-22,bucaramanga,mujer,1275,bloques de construccion,jugueteria,350000,2,2024-02-07,tarjeta de credito,0%,Sí,si,no,sin novedad,ok,38,adulto
+1047,luis lopez,luis.lopez502@outlook.com,5730684577,1993-08-28,bucaramanga,femenino,1098,teclado mecanico,tecnologia,15000000,1,2023-08-05,pse,0%,Sí,si,no,reemplazado pc 95,ok,33,adulto
+1152,camila ortiz,camila.ortiz991@outlook.com,5730776896,1967-06-03,medellin,masculino,1300,power bank 10000mah,tecnologia,15000000,4,2024-01-18,efectivo,0%,SI,si,no,reemplazado pc 95,ok,59,adulto
+1060,manuela perez,manuela.perez793@outlook.com,3178508214,1968-01-04,medellin,hombre,1123,set de ollas,hogar,45000,1,2024-12-22,pse,5%,No,si,no,sin novedad,ok,58,adulto
+1056,felipe sanchez,felipe.sanchez273@hotmail.com,5731522395,1979-09-07,medellin,femenino,1114,organizador plastico,hogar,30749999,2,2024-09-20,tarjeta debito,0%,SI,si,no,reemplazado pc 95,ok,47,adulto
+1123,fernando ramirez,fernando.ramirez260@hotmail.com,3076064413,1992-07-21,cartagena,mujer,1245,lampara led,hogar,500000,3,2024-04-27,pse,0%,True,no,no,sin novedad,ok,34,adulto
+1054,sofia rodriguez,sofia.rodriguez992@hotmail.com,0000000000,1983-05-05,cali,mujer,1109,protector solar,belleza,45000,2,2023-08-16,tarjeta debito,0%,True,si,no,sin novedad,ok,43,adulto
+1078,julian mendoza,julian.mendoza715@gmail.com,3291624731,1994-03-15,bogota d.c.,masculino,1156,cargador usb-c,tecnologia,150000,1,2024-07-17,daviplata,0%,SI,si,no,sin novedad,ok,32,adulto
+1045,maria garcia,maria.garcia589@hotmail.com,3122579050,1975-07-17,medellin,masculino,1095,cortina blackout,hogar,200000,4,2023-03-26,tarjeta de credito,0%,Si,no,no,sin novedad,ok,51,adulto
+1175,carlos lopez,carlos.lopez893@outlook.com,3154235677,1976-07-06,barranquilla,masculino,1348,lampara led,hogar,25000,-3,2024-04-06,daviplata,0%,Si,si,no,sin novedad,ok,50,adulto
+1061,gabriela gonzalez,gabriela.gonzalez526@outlook.com,3229034944,1960-10-18,bucaramanga,hombre,1126,mouse inalambrico,tecnologia,15000000,3,2023-07-12,nequi,0%,0,si,no,reemplazado pc 95,ok,65,mayor a 60 años
+1105,carlos jimenez,carlos.jimenez956@gmail.com,3277661830,1989-08-03,barranquilla,masculino,1213,power bank 10000mah,tecnologia,45000,5,2024-04-05,tarjeta de credito,0%,SI,si,no,sin novedad,ok,37,adulto
+1044,mariana martinez,mariana.martinez467@yahoo.com,3151401051,1968-10-03,bucaramanga,masculino,1092,cortina blackout,hogar,35000,4,2024-10-17,efectivo,,no,si,no,sin novedad,ok,57,adulto
+1166,julian suarez,julian.suarez495@gmail.com,3224090367,1961-12-17,cali,femenino,1329,teclado mecanico,tecnologia,200000,4,2024-08-08,nequi,20%,Sí,si,no,sin novedad,ok,64,mayor a 60 años
+1147,mariana castro,mariana.castro378@gmail.com,3028671632,1996-11-10,medellin,femenino,1290,mancuernas 5kg,deporte,35000000,5,2023-07-26,tarjeta debito,20%,0,si,no,sin novedad,ok,29,joven adulto
+1128,valentina lopez,valentina.lopez368@hotmail.com,3149961659,2003-12-04,barranquilla,hombre,1254,bloques de construccion,jugueteria,15000,2,2024-06-23,tarjeta de credito,0%,no,si,no,sin novedad,ok,22,joven adulto
+1156,alejandro suarez,alejandro.suarez298@gmail.com,3056904098,1976-11-17,barranquilla,femenino,1309,colchoneta yoga,deportes,500000,5,2023-01-10,efectivo,20%,0,si,no,sin novedad,ok,49,adulto
+1013,manuela jimenez,manuela.jimenez361@yahoo.com,3282337498,1970-10-28,cartagena,masculino,1025,gorra deportiva,moda,150000,3,2024-02-15,tarjeta de credito,0%,True,si,no,sin novedad,ok,55,adulto
+1113,paula rodriguez,paula.rodriguez633@outlook.com,3130187186,1977-07-04,cartagena,masculino,1228,rompecabezas 500pzs,jugueteria,60000,4,2023-01-08,efectivo,10%,No,si,no,sin novedad,ok,49,adulto
+1109,felipe perez,felipe.perez430@yahoo.com,5730636317,1969-11-17,medellin,masculino,1217,cortina blackout,hogar,30749999,2,2023-10-04,pse,0%,True,no,no,reemplazado pc 95,ok,56,adulto
+1062,juan vargas,juan.vargas598@gmail.com,3158428241,1979-12-13,cali,masculino,1127,peluche grande,jugueteria,35000000,1,2024-06-03,pse,0%,No,no,no,reemplazado pc 95,ok,46,adulto
+1155,juliana lopez,juliana.lopez634@outlook.com,3105057397,1976-11-10,bogota,femenino,1307,bufanda de lana,moda,150000,1,2023-06-24,tarjeta de credito,0%,True,si,no,sin novedad,ok,49,adulto
+1037,fernando torres,fernando.torres282@yahoo.com,3056856624,1975-09-17,medellin,femenino,1079,shampoo reparador,belleza,45000,4,2024-07-24,tarjeta debito,0%,0,no,no,sin novedad,ok,50,adulto
+1171,carolina gomez,carolina.gomez516@hotmail.com,3198436241,2000-10-03,medellin,femenino,1340,organizador plastico,hogar,350000,2,2023-03-21,efectivo,15%,SI,si,no,sin novedad,ok,25,joven adulto
+1093,andres diaz,andres.diaz781@gmail.com,3205172897,1980-09-18,medellin,femenino,1185,guantes de gimnasio,deporte,35000,1,2024-02-27,daviplata,0%,No,no,no,sin novedad,ok,45,adulto
+1143,isabella gomez,isabella.gomez45@yahoo.com,5731832302,1979-08-23,medellin,masculino,1283,juego de sabanas,hogar,30749999,4,2024-06-23,efectivo,0%,True,si,no,reemplazado pc 95,ok,47,adulto
+1134,carolina jimenez,carolina.jimenez292@yahoo.com,3015893571,1972-07-22,bucaramanga,femenino,1269,teclado mecanico,tecnologia,25000,3,2024-01-19,pse,0%,True,si,no,sin novedad,ok,54,adulto
+1029,maria gomez,maria.gomez721@yahoo.com,3072715518,2004-01-25,barranquilla,femenino,1062,peluche grande,jugueteria,120000,1,2024-04-22,pse,0%,True,si,no,sin novedad,ok,22,joven adulto
+1133,gabriela ramirez,gabriela.ramirez922@yahoo.com,3297563410,2000-01-11,cali,femenino,1265,botella termica,deportes,200000,5,2023-06-13,tarjeta de credito,10%,0,si,no,sin novedad,ok,26,joven adulto
+1162,carolina rojas,carolina.rojas971@gmail.com,3029014870,1967-02-17,cali,femenino,1319,shampoo reparador,belleza,150000,1,2023-01-08,daviplata,0%,Sí,si,no,sin novedad,ok,59,adulto
+1179,jorge ortiz,jorge.ortiz11@yahoo.com,5731799802,1962-10-27,cali,femenino,1354,protector solar,belleza,15000,2,2023-12-02,tarjeta debito,,True,no,no,sin novedad,ok,63,mayor a 60 años
+1033,laura rojas,laura.rojas197@outlook.com,3275758441,1986-09-13,cali,masculino,1070,perfume 50ml,belleza,80000,3,2024-03-28,daviplata,0%,Sí,si,no,sin novedad,ok,39,adulto
+1019,maria gonzalez,maria.gonzalez282@outlook.com,5731395339,1964-05-26,cali,masculino,1037,colchoneta yoga,deportes,31999999,1,2024-07-28,nequi,0%,True,si,no,reemplazado pc 95,ok,62,mayor a 60 años
+1021,luis suarez,luis.suarez367@gmail.com,0000000000,1975-08-19,medellin,femenino,1041,teclado mecanico,tecnologia,120000,4,2023-03-09,pse,10%,SI,si,no,sin novedad,ok,51,adulto
+1081,andrea vargas,andrea.vargas783@hotmail.com,5731780856,1971-07-04,cali,masculino,1161,set de brochas,belleza,17000000,4,2023-09-23,nequi,0%,0,si,no,reemplazado pc 95,ok,55,adulto
+1135,andrea ramirez,andrea.ramirez561@gmail.com,3167922877,1987-10-14,medellin,masculino,1270,bloques de construccion,jugueteria,350000,4,2024-11-17,daviplata,0%,Si,no,no,sin novedad,ok,38,adulto
+1007,andrea gomez,andrea.gomez565@outlook.com,0304304122,1973-05-16,medellin,masculino,1012,perfume 50ml,belleza,17000000,1,2023-04-16,nequi,0%,0,si,no,reemplazado pc 95,ok,53,adulto
+1120,andrea castro,andrea.castro329@yahoo.com,3205616556,1992-11-14,cartagena,masculino,1238,muneca articulada,jugueteria,45000,1,2023-12-12,tarjeta de credito,0%,SI,no,no,sin novedad,ok,33,adulto
+1130,jorge martinez,jorge.martinez120@gmail.com,0000000000,2003-07-08,barranquilla,masculino,1260,balon de futbol,deporte,35000,4,2024-02-12,nequi,15%,True,si,no,sin novedad,ok,23,joven adulto
+1133,gabriela ramirez,gabriela.ramirez922@yahoo.com,3297563410,2000-01-11,cali,femenino,1266,peluche grande,jugueteria,2500000,3,2024-10-28,efectivo,0%,no,si,no,sin novedad,ok,26,joven adulto
+1102,luis moreno,luis.moreno252@gmail.com,3190580778,1967-01-02,cali,femenino,1205,bufanda de lana,moda,15000,2,2023-05-16,pse,0%,No,si,no,sin novedad,ok,59,adulto
+1063,paula hernandez,paula.hernandez892@gmail.com,5731252175,1996-09-16,bucaramanga,masculino,1128,mancuernas 5kg,deportes,35000,4,2024-03-20,efectivo,5%,Si,si,no,sin novedad,ok,29,joven adulto
+1098,jorge jimenez,jorge.jimenez348@gmail.com,3150461735,1994-12-13,cali,femenino,1194,shampoo reparador,belleza,45000,4,2023-02-15,tarjeta de credito,0%,Sí,si,no,sin novedad,ok,31,joven adulto
+1023,andres ortiz,andres.ortiz354@gmail.com,3036900343,2003-08-28,barranquilla,masculino,1047,gorra deportiva,moda,350000,-3,2023-11-29,nequi,15%,No,si,no,sin novedad,ok,23,joven adulto
+1104,maria rojas,maria.rojas25@gmail.com,3211926921,1979-06-14,bucaramanga,masculino,1209,camiseta algodon,moda,20000000,4,2023-09-21,tarjeta de credito,0%,SI,si,no,reemplazado pc 95,ok,47,adulto
+1143,isabella gomez,isabella.gomez45@yahoo.com,5731832302,1979-08-23,medellin,masculino,1284,cortina blackout,hogar,30749999,5,2024-09-22,tarjeta debito,0%,0,si,no,reemplazado pc 95,ok,47,adulto
+1088,andres rodriguez,andres.rodriguez844@gmail.com,3211386338,1987-04-07,bucaramanga,masculino,1177,balon de futbol,deportes,60000,2,2023-08-16,pse,-,Sí,si,no,sin novedad,ok,39,adulto
+1064,juliana sanchez,juliana.sanchez642@gmail.com,3294210447,1987-12-31,cali,mujer,1129,perfume 50ml,belleza,17000000,4,2024-02-18,tarjeta debito,0%,Si,si,no,reemplazado pc 95,ok,38,adulto
+1119,luis ramirez,luis.ramirez207@outlook.com,5730616756,1990-10-29,bogota,masculino,1237,set de ollas,hogar,30749999,4,2024-11-06,daviplata,5%,Sí,no,no,reemplazado pc 95,ok,35,adulto
+1005,jorge perez,jorge.perez885@outlook.com,3113338726,1968-10-29,barranquilla,masculino,1008,guantes de gimnasio,deportes,60000,3,2024-07-23,tarjeta debito,0%,Sí,si,no,sin novedad,ok,57,adulto
+1165,felipe ortiz,felipe.ortiz966@yahoo.com,0000000000,1964-04-07,cali,masculino,1327,chaqueta impermeable,moda,20000000,5,2024-01-29,tarjeta de credito,0%,Si,si,no,reemplazado pc 95,ok,62,mayor a 60 años
+1164,valentina vargas,valentina.vargas256@hotmail.com,5732189239,1982-03-11,barranquilla,mujer,1325,colchoneta yoga,deportes,45000,1,2024-02-22,pse,0%,0,no,no,sin novedad,ok,44,adulto
+1146,camila hernandez,camila.hernandez349@outlook.com,3205292407,1997-06-21,cartagena,hombre,1288,organizador plastico,hogar,500000,-3,2023-02-02,tarjeta debito,0%,SI,si,no,sin novedad,ok,29,joven adulto
+1086,mariana torres,mariana.torres654@outlook.com,5731024916,1970-02-17,bucaramanga,femenino,1173,gorra deportiva,moda,60000,5,2023-09-27,pse,20%,True,si,no,sin novedad,ok,56,adulto
+1006,andrea rodriguez,andrea.rodriguez872@gmail.com,3239909169,1981-02-06,cartagena,femenino,1009,jean slim fit,moda,500000,3,2023-11-20,tarjeta de credito,0%,No,si,no,sin novedad,ok,45,adulto
+1116,juan lopez,juan.lopez105@hotmail.com,3012075452,1970-03-23,cali,masculino,1232,mancuernas 5kg,deportes,25000,5,2023-09-03,daviplata,,No,si,no,sin novedad,ok,56,adulto
+1015,alejandro lopez,alejandro.lopez610@yahoo.com,5732648877,1971-02-26,medellin,femenino,1028,bufanda de lana,moda,120000,1,2023-04-18,pse,5%,SI,si,no,sin novedad,ok,55,adulto
+1141,santiago rodriguez,santiago.rodriguez783@outlook.com,5732120704,1965-06-11,cartagena,femenino,1279,peluche grande,jugueteria,15000,4,2024-09-05,tarjeta de credito,5%,No,no,no,sin novedad,ok,61,mayor a 60 años
+1167,fernando sanchez,fernando.sanchez740@gmail.com,3139627365,1978-06-30,cali,masculino,1332,cargador usb-c,tecnologia,150000,2,2023-10-16,pse,0%,0,no,no,sin novedad,ok,48,adulto
+1028,santiago garcia,santiago.garcia745@gmail.com,3015447962,1976-03-10,barranquilla,masculino,1059,colchoneta yoga,deportes,31999999,1,2024-11-26,tarjeta de credito,10%,Si,si,no,reemplazado pc 95,ok,50,adulto
+1030,fernando perez,fernando.perez355@hotmail.com,3242498182,1967-01-28,cali,femenino,1065,rompecabezas 500pzs,jugueteria,35000,5,2024-04-05,tarjeta debito,-,SI,si,no,sin novedad,ok,59,adulto
+1169,carolina martinez,carolina.martinez400@hotmail.com,3242152265,1966-01-14,medellin,femenino,1338,shampoo reparador,belleza,17000000,1,2024-04-30,tarjeta de credito,Sin dato,0,si,no,reemplazado pc 95,ok,60,adulto
+1111,alejandro suarez,alejandro.suarez245@yahoo.com,3186401557,1978-10-27,cartagena,femenino,1223,camiseta algodon,moda,35000,4,2023-01-24,efectivo,0%,no,si,no,sin novedad,ok,47,adulto
+1078,julian mendoza,julian.mendoza715@gmail.com,3291624731,1994-03-15,bogota d.c.,masculino,1154,set de brochas,belleza,17000000,5,2023-07-30,efectivo,0%,True,si,no,reemplazado pc 95,ok,32,adulto
+1024,camila ortiz,camila.ortiz764@yahoo.com,3055231243,2005-10-18,cartagena,masculino,1049,colchoneta yoga,deportes,350000,1,2023-10-21,daviplata,0%,Sí,si,no,sin novedad,ok,20,joven adulto
+1017,mariana mendoza,mariana.mendoza349@outlook.com,3272787558,1985-05-17,medellin,masculino,1032,set de brochas,belleza,25000,1,2024-02-24,tarjeta de credito,0%,SI,si,no,sin novedad,ok,41,adulto
+1001,alejandro perez,alejandro.perez693@gmail.com,3089083863,1962-11-07,cali,femenino,1002,audifonos bluetooth,tecnologia,200000,3,2023-08-22,tarjeta de credito,0%,SI,si,no,sin novedad,ok,63,mayor a 60 años
+1086,mariana torres,mariana.torres654@outlook.com,5731024916,1970-02-17,bucaramanga,femenino,1172,set de brochas,belleza,150000,4,2024-05-11,nequi,15%,0,si,no,sin novedad,ok,56,adulto
+1121,diego gomez,diego.gomez331@outlook.com,5732529456,1978-06-22,cartagena,masculino,1241,bufanda de lana,moda,350000,5,2024-04-18,tarjeta debito,15%,SI,si,no,sin novedad,ok,48,adulto
+1007,andrea gomez,andrea.gomez565@outlook.com,2303410104,1973-05-16,medellin,masculino,1014,set de ollas,hogar,120000,3,2024-03-07,tarjeta de credito,0%,True,si,no,sin novedad,ok,53,adulto
+1173,felipe mendoza,felipe.mendoza369@yahoo.com,3291297102,1994-10-10,cali,femenino,1344,bloques de construccion,jugueteria,35000000,3,2023-05-13,pse,10%,0,si,no,reemplazado pc 95,ok,31,joven adulto
+1006,andrea rodriguez,andrea.rodriguez872@gmail.com,3239909169,1981-02-06,cartagena,femenino,1010,chaqueta impermeable,moda,20000000,3,2024-09-18,tarjeta de credito,10%,No,si,no,reemplazado pc 95,ok,45,adulto
+1074,natalia suarez,natalia.suarez928@outlook.com,3012908781,1979-10-22,cali,masculino,1147,peluche grande,jugueteria,35000000,4,2024-12-30,pse,0%,no,si,no,reemplazado pc 95,ok,46,adulto
+1125,juliana hernandez,juliana.hernandez242@yahoo.com,0000000000,2001-02-07,barranquilla,femenino,1249,muneca articulada,jugueteria,1200000,5,2023-12-07,efectivo,0%,Si,si,no,sin novedad,ok,25,joven adulto
+1076,carlos diaz,carlos.diaz940outlook.com,3244989266,1989-01-27,bogota,masculino,1152,audifonos bluetooth,tecnologia,35000,2,2023-02-27,pse,10%,Si,si,no,sin novedad,sin email,37,adulto
+1046,valentina garcia,valentina.garcia587@gmail.com,3078361340,1992-11-29,cartagena,masculino,1096,gorra deportiva,moda,25000,2,2024-12-28,daviplata,0%,0,si,no,sin novedad,ok,33,adulto
+1019,maria gonzalez,maria.gonzalez282@outlook.com,5731395339,1964-05-26,cali,masculino,1035,carro a control remoto,jugueteria,35000000,2,2023-06-29,tarjeta debito,0%,True,si,no,reemplazado pc 95,ok,62,mayor a 60 años
+1046,valentina garcia,valentina.garcia587@gmail.com,3078361340,1992-11-29,cartagena,masculino,1097,protector solar,belleza,60000,3,2024-06-10,tarjeta debito,20%,Si,si,no,sin novedad,ok,33,adulto
+1132,camila vargas,camila.vargas733@yahoo.com,3026667850,1973-08-07,cartagena,femenino,1264,power bank 10000mah,tecnologia,15000000,4,2023-02-07,nequi,,True,no,no,reemplazado pc 95,ok,53,adulto
+1153,miguel jimenez,miguel.jimenez651@outlook.com,3050249724,1998-01-15,barranquilla,masculino,1301,shampoo reparador,belleza,15000,4,2024-06-14,efectivo,5%,True,si,no,sin novedad,ok,28,joven adulto
+1058,santiago mendoza,santiago.mendoza622@hotmail.com,3284443106,1978-06-10,barranquilla,hombre,1117,balon de futbol,deportes,31999999,3,2023-04-10,tarjeta debito,0%,no,si,no,reemplazado pc 95,ok,48,adulto
+1084,carolina ramirez,carolina.ramirez405@outlook.com,3138944846,1993-12-11,bogota,femenino,1169,lampara led,hogar,25000,4,2023-01-20,tarjeta de credito,0%,No,no,no,sin novedad,ok,32,adulto
+1023,andres ortiz,andres.ortiz354@gmail.com,3036900343,2003-08-28,barranquilla,masculino,1046,camiseta algodon,moda,15000,2,2024-07-26,tarjeta de credito,0%,SI,si,no,sin novedad,ok,23,joven adulto
+1081,andrea vargas,andrea.vargas783@hotmail.com,5731780856,1971-07-04,cali,masculino,1162,guantes de gimnasio,deportes,31999999,4,2024-08-12,tarjeta de credito,0%,Sí,si,no,reemplazado pc 95,ok,55,adulto
+1111,alejandro suarez,alejandro.suarez245@yahoo.com,3186401557,1978-10-27,cartagena,femenino,1224,carro a control remoto,jugueteria,45000,5,2024-10-23,efectivo,15%,no,si,no,sin novedad,ok,47,adulto
+1149,paula rojas,paula.rojas144@outlook.com,3118621042,1961-08-14,cartagena,mujer,1293,juego de sabanas,hogar,500000,1,2024-11-06,efectivo,0%,Si,si,no,sin novedad,ok,65,mayor a 60 años
+1058,santiago mendoza,santiago.mendoza622@hotmail.com,3284443106,1978-06-10,barranquilla,hombre,1118,guantes de gimnasio,deporte,500000,4,2024-04-01,pse,0%,True,si,no,sin novedad,ok,48,adulto
+1018,gabriela suarez,gabriela.suarez241@gmail.com,3217240050,1968-02-09,cali,femenino,1033,jean slim fit,moda,45000,2,2024-09-26,efectivo,0%,no,si,no,sin novedad,ok,58,adulto
+1036,miguel moreno,miguel.moreno690@outlook.com,3043106903,1980-08-08,medellin,femenino,1078,audifonos bluetooth,tecnologia,150000,2,2023-08-11,tarjeta debito,0%,0,no,no,sin novedad,ok,46,adulto
+1151,andres torres,andres.torres769@yahoo.com,5732339685,1981-09-25,cali,hombre,1298,mancuernas 5kg,deportes,15000,2,2023-07-29,nequi,,True,no,no,sin novedad,ok,44,adulto
+1067,carolina jimenez,carolina.jimenez627@yahoo.com,3067014508,1971-09-21,medellin,masculino,1134,set de brochas,belleza,200000,1,2024-11-10,tarjeta debito,0%,Si,si,no,sin novedad,ok,54,adulto
+1073,daniela torres,daniela.torres775gmail.com,3249147660,1992-02-03,bucaramanga,mujer,1145,shampoo reparador,belleza,1200000,3,2024-10-25,tarjeta de credito,0%,No,no,no,sin novedad,sin email,34,adulto
+1079,carolina martinez,carolina.martinez228@yahoo.com,3190277038,1995-12-11,barranquilla,femenino,1157,power bank 10000mah,tecnologia,200000,2,2023-06-11,pse,0%,SI,no,no,sin novedad,ok,30,joven adulto
+1030,fernando perez,fernando.perez355@hotmail.com,3242498182,1967-01-28,cali,femenino,1064,chaqueta impermeable,moda,150000,3,2024-03-01,efectivo,0%,0,si,no,sin novedad,ok,59,adulto
+1039,juliana vargas,juliana.vargas189@outlook.com,0000000000,1965-04-08,bucaramanga,femenino,1083,crema facial,belleza,1500000,-5,2024-12-15,tarjeta debito,0%,0,si,no,sin novedad,ok,61,mayor a 60 años
+1028,santiago garcia,santiago.garcia745@gmail.com,3015447962,1976-03-10,barranquilla,masculino,1060,carro a control remoto,jugueteria,120000,5,2024-03-30,nequi,0%,0,si,no,sin novedad,ok,50,adulto
+1149,paula rojas,paula.rojas144@outlook.com,3118621042,1961-08-14,cartagena,mujer,1294,lampara led,hogar,45000,0,2023-12-12,daviplata,0%,True,si,no,sin novedad,ok,65,mayor a 60 años
+1072,felipe gonzalez,felipe.gonzalez95@outlook.com,3287801573,1989-09-13,cartagena,femenino,1144,mancuernas 5kg,deportes,1500000,1,2024-07-25,nequi,0%,SI,si,no,sin novedad,ok,36,adulto
+1116,juan lopez,juan.lopez105@hotmail.com,3012075452,1970-03-23,cali,masculino,1231,shampoo reparador,belleza,1200000,2,2023-11-11,tarjeta debito,0%,No,si,no,sin novedad,ok,56,adulto
+1021,luis suarez,luis.suarez367@gmail.com,0000000000,1975-08-19,medellin,femenino,1042,bufanda de lana,moda,350000,5,2023-08-22,pse,5%,No,si,no,sin novedad,ok,51,adulto
+1095,fernando rojas,fernando.rojas403@hotmail.com,3121117518,1978-02-11,cartagena,femenino,1187,shampoo reparador,belleza,120000,2,2023-06-03,tarjeta debito,0%,SI,si,no,sin novedad,ok,48,adulto
+1128,valentina lopez,valentina.lopez368@hotmail.com,3149961659,2003-12-04,barranquilla,hombre,1255,muneca articulada,jugueteria,200000,1,2024-06-06,efectivo,-,0,si,no,sin novedad,ok,22,joven adulto
+1100,carlos vargas,carlos.vargas619@yahoo.com,3048769639,1969-06-08,barranquilla,femenino,1200,muneca articulada,jugueteria,500000,3,2024-11-28,pse,15%,SI,si,no,sin novedad,ok,57,adulto
+1082,andrea castro,andrea.castro488@yahoo.com,3245061593,1983-04-22,medellin,femenino,1165,cargador usb-c,tecnologia,15000000,3,2024-03-31,daviplata,5%,True,si,no,reemplazado pc 95,ok,43,adulto
+1054,sofia rodriguez,sofia.rodriguez992@hotmail.com,0000000000,1983-05-05,cali,mujer,1110,cargador usb-c,tecnologia,500000,1,2023-02-13,tarjeta de credito,10%,SI,si,no,sin novedad,ok,43,adulto
+1130,jorge martinez,jorge.martinez120@gmail.com,0000000000,2003-07-08,barranquilla,masculino,1259,protector solar,belleza,500000,2,2023-11-20,tarjeta de credito,15%,no,si,no,sin novedad,ok,23,joven adulto
+1071,fernando gonzalez,fernando.gonzalez795@hotmail.com,3281606484,1966-09-06,bucaramanga,masculino,1141,crema facial,belleza,80000,1,2024-10-02,daviplata,20%,No,no,no,sin novedad,ok,60,adulto
+1059,miguel rodriguez,miguel.rodriguez178@outlook.com,0000000000,1977-04-16,cartagena,femenino,1122,juego de sabanas,hogar,30749999,2,2024-01-17,pse,0%,True,si,no,reemplazado pc 95,ok,49,adulto
+1176,daniela ortiz,daniela.ortiz470@hotmail.com,3264911110,1999-02-07,cartagena,masculino,1350,power bank 10000mah,tecnologia,200000,5,2024-03-06,tarjeta debito,10%,No,si,no,sin novedad,ok,27,joven adulto
+1178,juan mendoza,juan.mendoza465@hotmail.com,5730640412,1979-11-23,bogota d.c.,mujer,1353,balon de futbol,deportes,35000,1,2023-08-01,tarjeta de credito,0%,No,no,no,sin novedad,ok,46,adulto
+1025,andres moreno,andres.moreno419@outlook.com,3264492519,1990-01-08,medellin,masculino,1052,organizador plastico,hogar,45000,2,2024-07-06,tarjeta de credito,0%,SI,si,no,sin novedad,ok,36,adulto
+1027,valentina perez,valentina.perez612@outlook.com,5732539621,1972-11-17,barranquilla,femenino,1057,shampoo reparador,belleza,500000,2,2024-04-13,pse,0%,Si,si,no,sin novedad,ok,53,adulto
+1110,ricardo vargas,ricardo.vargas254@hotmail.com,3100780686,1973-05-13,cali,hombre,1221,bufanda de lana,moda,200000,1,2024-11-06,tarjeta de credito,0%,Si,si,no,sin novedad,ok,53,adulto
+1154,andres jimenez,andres.jimenez829@hotmail.com,5732121416,1996-09-03,medellin,mujer,1304,cargador usb-c,tecnologia,150000,1,2024-08-19,tarjeta de credito,0%,SI,si,no,sin novedad,ok,30,joven adulto
+1080,juan martinez,juan.martinez232@yahoo.com,3218184518,1960-01-06,cartagena,masculino,1159,chaqueta impermeable,moda,20000000,2,2023-12-17,nequi,5%,0,si,no,reemplazado pc 95,ok,66,mayor a 60 años
+1040,natalia vargas,natalia.vargas661@outlook.com,3039740148,1968-07-21,bogota,femenino,1086,peluche grande,jugueteria,1200000,1,2024-09-20,efectivo,0%,True,si,no,sin novedad,ok,58,adulto
+1106,andres suarez,andres.suarez501@hotmail.com,3002041792,1964-02-09,cartagena,femenino,1214,teclado mecanico,tecnologia,350000,1,2024-11-25,pse,0%,0,no,no,sin novedad,ok,62,mayor a 60 años
+1112,julian ramirez,julian.ramirez789@yahoo.com,5732842222,1974-12-04,cali,masculino,1226,guantes de gimnasio,deportes,80000,5,2023-10-24,daviplata,10%,0,si,no,sin novedad,ok,51,adulto
+1153,miguel jimenez,miguel.jimenez651@outlook.com,3050249724,1998-01-15,barranquilla,masculino,1303,balon de futbol,deportes,25000,5,2023-06-30,tarjeta debito,0%,True,si,no,sin novedad,ok,28,joven adulto
+1035,gabriela martinez,gabriela.martinez64@gmail.com,5732713971,1973-06-11,cartagena,masculino,1077,audifonos bluetooth,tecnologia,60000,4,2024-01-22,tarjeta de credito,0%,0,si,no,sin novedad,ok,53,adulto
+1143,isabella gomez,isabella.gomez45@yahoo.com,5731832302,1979-08-23,medellin,masculino,1285,set de ollas,hogar,1200000,5,2024-10-22,pse,0%,0,si,no,sin novedad,ok,47,adulto
+1041,juliana castro,juliana.castro369@outlook.com,3058199560,2005-12-21,bogota,femenino,1088,botella termica,deportes,45000,4,2023-05-30,tarjeta debito,5%,no,si,no,sin novedad,ok,20,joven adulto
+1138,carlos ramirez,carlos.ramirez900@yahoo.com,3274355379,1988-07-22,bucaramanga,mujer,1275,bloques de construccion,jugueteria,350000,2,2024-02-07,tarjeta de credito,0%,Sí,si,no,sin novedad,ok,38,adulto
+1092,camila castro,camila.castro191@gmail.com,3245762055,1961-12-05,bucaramanga,masculino,1183,rompecabezas 500pzs,jugueteria,45000,3,2023-07-31,nequi,0%,True,si,no,sin novedad,ok,64,mayor a 60 años
+1052,diego martinez,diego.martinez977@gmail.com,3105349493,1987-11-15,bogota,femenino,1106,shampoo reparador,belleza,1200000,0,2023-01-25,nequi,0%,0,si,no,sin novedad,ok,38,adulto
+1024,camila ortiz,camila.ortiz764@yahoo.com,3055231243,2005-10-18,cartagena,masculino,1050,rompecabezas 500pzs,jugueteria,35000000,5,2023-04-16,daviplata,,Si,si,no,reemplazado pc 95,ok,20,joven adulto
+1004,laura diaz,laura.diaz731@hotmail.com,3031509839,1999-04-21,cartagena,femenino,1006,audifonos bluetooth,tecnologia,45000,3,2023-08-08,tarjeta debito,10%,0,no,no,sin novedad,ok,27,joven adulto
+1009,sofia martinez,sofia.martinez507@outlook.com,3287083172,1969-07-24,bucaramanga,mujer,1018,gorra deportiva,moda,500000,1,2024-07-07,tarjeta debito,0%,0,si,no,sin novedad,ok,57,adulto
+1118,andres mendoza,andres.mendoza298@outlook.com,3271678112,2002-03-09,bucaramanga,femenino,1235,muneca articulada,jugueteria,25000,3,2023-08-27,daviplata,20%,SI,si,no,sin novedad,ok,24,joven adulto
+1153,miguel jimenez,miguel.jimenez651@outlook.com,3050249724,1998-01-15,barranquilla,masculino,1302,peluche grande,jugueteria,60000,1,2023-05-27,daviplata,15%,True,si,no,sin novedad,ok,28,joven adulto
+1052,diego martinez,diego.martinez977@gmail.com,3105349493,1987-11-15,bogota,femenino,1107,bloques de construccion,jugueteria,45000,4,2024-12-29,tarjeta de credito,,Sí,si,no,sin novedad,ok,38,adulto
+1067,carolina jimenez,carolina.jimenez627@yahoo.com,3067014508,1971-09-21,medellin,masculino,1135,perfume 50ml,belleza,35000,3,2023-08-17,daviplata,0%,No,si,no,sin novedad,ok,54,adulto
+1154,andres jimenez,andres.jimenez829@hotmail.com,5732121416,1996-09-03,medellin,mujer,1305,colchoneta yoga,deporte,35000000,3,2024-11-12,efectivo,0%,No,si,no,sin novedad,ok,30,joven adulto
+1113,paula rodriguez,paula.rodriguez633@outlook.com,3130187186,1977-07-04,cartagena,masculino,1227,bufanda de lana,moda,20000000,4,2024-01-17,pse,0%,Sí,si,no,reemplazado pc 95,ok,49,adulto
+1107,sebastian rodriguez,sebastian.rodriguez776@hotmail.com,5730219620,1999-05-10,cali,femenino,1215,cortina blackout,hogar,60000,2,2024-02-26,tarjeta debito,0%,no,no,no,sin novedad,ok,27,joven adulto
+1097,mariana ramirez,mariana.ramirez533@outlook.com,5730107139,1980-11-16,cali,masculino,1191,jean slim fit,moda,20000000,3,2023-11-28,tarjeta de credito,0%,Si,si,no,reemplazado pc 95,ok,45,adulto
+1168,diego lopez,diego.lopez556@gmail.com,3272457230,1978-02-24,cartagena,femenino,1335,muneca articulada,jugueteria,500000,4,2023-10-16,tarjeta de credito,0%,No,si,no,sin novedad,ok,48,adulto
+1016,andrea rojas,andrea.rojas886@outlook.com,0000000000,2001-06-12,cali,femenino,1030,mancuernas 5kg,deportes,25000,2,2023-10-07,efectivo,0%,Sí,si,no,sin novedad,ok,25,joven adulto
+1091,isabella sanchez,isabella.sanchez632@yahoo.com,3035211039,1999-07-08,cali,masculino,1181,cargador usb-c,tecnologia,15000,3,2024-02-02,daviplata,15%,No,no,no,sin novedad,ok,27,joven adulto
+1048,luis jimenez,luis.jimenez837@yahoo.com,3011554262,2002-11-09,bucaramanga,femenino,1101,crema facial,belleza,350000,3,2024-02-26,daviplata,0%,No,no,no,sin novedad,ok,23,joven adulto
+1100,carlos vargas,carlos.vargas619@yahoo.com,3048769639,1969-06-08,barranquilla,femenino,1198,organizador plastico,hogar,25000,4,2024-07-11,tarjeta debito,0%,No,si,no,sin novedad,ok,57,adulto
+1104,maria rojas,maria.rojas25@gmail.com,3211926921,1979-06-14,bucaramanga,masculino,1210,jean slim fit,moda,150000,5,2024-07-07,tarjeta debito,0%,True,si,no,sin novedad,ok,47,adulto
+1067,carolina jimenez,carolina.jimenez627@yahoo.com,3067014508,1971-09-21,medellin,masculino,1136,teclado mecanico,tecnologia,80000,1,2023-01-01,nequi,15%,Sí,si,no,sin novedad,ok,54,adulto
+1180,carlos sanchez,carlos.sanchez447@outlook.com,3246199423,1975-07-08,bucaramanga,hombre,1355,botella termica,deporte,64749999,5,2023-12-28,daviplata,0%,Si,si,no,reemplazado pc 95,ok,51,adulto
+1163,andrea sanchez,andrea.sanchez6@gmail.com,3018826170,1960-10-17,barranquilla,masculino,1324,perfume 50ml,belleza,35000,1,2024-12-01,tarjeta de credito,0%,Si,si,no,sin novedad,ok,65,mayor a 60 años
+1100,carlos vargas,carlos.vargas619@yahoo.com,3048769639,1969-06-08,barranquilla,femenino,1199,camiseta algodon,moda,150000,1,2024-01-24,efectivo,0%,0,si,no,sin novedad,ok,57,adulto
+1083,maria diaz,maria.diaz756@hotmail.com,2331313341,1975-04-22,bogota d.c.,masculino,1167,botella termica,deporte,60000,5,2024-10-13,efectivo,15%,0,si,no,sin novedad,ok,51,adulto
+1068,manuela rojas,manuela.rojas340@outlook.com,5732305548,1992-08-04,cali,femenino,1137,set de ollas,hogar,1200000,1,2024-02-07,efectivo,0%,No,no,no,sin novedad,ok,34,adulto
+1144,david vargas,david.vargas654@outlook.com,3134669254,1978-03-18,barranquilla,masculino,1286,lampara led,hogar,150000,5,2024-04-06,efectivo,20%,0,si,no,sin novedad,ok,48,adulto
+1065,valentina perez,valentina.perez852@yahoo.com,0000000000,1986-07-01,barranquilla,femenino,1132,carro a control remoto,jugueteria,35000000,1,2023-04-03,tarjeta de credito,0%,0,no,no,reemplazado pc 95,ok,40,adulto
+1021,luis suarez,luis.suarez367@gmail.com,0000000000,1975-08-19,medellin,femenino,1040,audifonos bluetooth,tecnologia,15000000,5,2024-09-21,daviplata,20%,no,si,no,reemplazado pc 95,ok,51,adulto
+1108,alejandro ramirez,alejandro.ramirez634@gmail.com,3234031277,1979-09-03,bogota,femenino,1216,bloques de construccion,jugueteria,500000,4,2024-04-09,tarjeta de credito,0%,True,no,no,sin novedad,ok,47,adulto
+1022,manuela diaz,manuela.diaz852@gmail.com,3288516560,1993-06-06,medellin,masculino,1044,protector solar,belleza,1500000,1,2023-12-14,tarjeta de credito,0%,No,si,no,sin novedad,ok,33,adulto
+1026,fernando mendoza,fernando.mendoza374@outlook.com,3047359774,1985-07-24,medellin,masculino,1055,teclado mecanico,tecnologia,15000000,4,2023-08-09,nequi,10%,No,si,no,reemplazado pc 95,ok,41,adulto
+1172,alejandro rodriguez,alejandro.rodriguez323@gmail.com,3165215681,1985-05-02,bogota,masculino,1342,teclado mecanico,tecnologia,150000,3,2024-10-02,daviplata,0%,True,no,no,sin novedad,ok,41,adulto
+1019,maria gonzalez,maria.gonzalez282@outlook.com,5731395339,1964-05-26,cali,masculino,1036,chaqueta impermeable,moda,25000,2,2024-11-21,nequi,20%,Si,si,no,sin novedad,ok,62,mayor a 60 años
+1140,carlos lopez,carlos.lopez994@gmail.com,3205664187,2000-09-21,cartagena,masculino,1277,shampoo reparador,belleza,15000,-5,2023-07-19,tarjeta de credito,0%,0,si,no,sin novedad,ok,25,joven adulto
+1061,gabriela gonzalez,gabriela.gonzalez526@outlook.com,3229034944,1960-10-18,bucaramanga,hombre,1125,chaqueta impermeable,moda,45000,5,2024-09-11,nequi,10%,True,si,no,sin novedad,ok,65,mayor a 60 años
+1072,felipe gonzalez,felipe.gonzalez95@outlook.com,3287801573,1989-09-13,cartagena,femenino,1143,camiseta algodon,moda,25000,0,2023-08-04,daviplata,0%,Sí,si,no,sin novedad,ok,36,adulto
+1055,manuela ortiz,manuela.ortiz905@outlook.com,3270146263,1986-06-23,medellin,masculino,1111,rompecabezas 500pzs,jugueteria,1200000,4,2023-10-04,tarjeta de credito,0%,True,no,no,sin novedad,ok,40,adulto
+1007,andrea gomez,andrea.gomez565@outlook.com,3300022410,1973-05-16,medellin,masculino,1013,mancuernas 5kg,deportes,1200000,2,2023-02-09,tarjeta debito,5%,True,si,no,sin novedad,ok,53,adulto
+1136,valentina suarez,valentina.suarez981@gmail.com,3220433971,1961-09-03,bucaramanga,femenino,1273,balon de futbol,deportes,45000,5,2023-04-28,tarjeta de credito,10%,No,si,no,sin novedad,ok,65,mayor a 60 años
+1024,camila ortiz,camila.ortiz764@yahoo.com,3055231243,2005-10-18,cartagena,masculino,1048,set de ollas,hogar,500000,5,2024-10-12,pse,15%,True,si,no,sin novedad,ok,20,joven adulto
+1102,luis moreno,luis.moreno252@gmail.com,3190580778,1967-01-02,cali,femenino,1204,rompecabezas 500pzs,jugueteria,35000000,3,2023-11-08,pse,,True,si,no,reemplazado pc 95,ok,59,adulto
+1163,andrea sanchez,andrea.sanchez6@gmail.com,3018826170,1960-10-17,barranquilla,masculino,1323,mouse inalambrico,tecnologia,15000,3,2024-05-05,tarjeta de credito,10%,True,si,no,sin novedad,ok,65,mayor a 60 años
+1059,miguel rodriguez,miguel.rodriguez178@outlook.com,0000000000,1977-04-16,cartagena,femenino,1120,mancuernas 5kg,deportes,350000,1,2023-10-10,efectivo,0%,No,si,no,sin novedad,ok,49,adulto
+1011,sebastian rodriguez,sebastian.rodriguez245@hotmail.com,5731299124,1979-07-22,medellin,femenino,1022,mouse inalambrico,tecnologia,15000,1,2024-04-15,efectivo,10%,Sí,si,no,sin novedad,ok,47,adulto
+1039,juliana vargas,juliana.vargas189@outlook.com,0000000000,1965-04-08,bucaramanga,femenino,1084,chaqueta impermeable,moda,120000,4,2024-12-01,daviplata,0%,No,si,no,sin novedad,ok,61,mayor a 60 años
+1064,juliana sanchez,juliana.sanchez642@gmail.com,3294210447,1987-12-31,cali,mujer,1131,mancuernas 5kg,deportes,1200000,3,2024-09-29,daviplata,0%,Sí,si,no,sin novedad,ok,38,adulto
+1115,alejandro vargas,alejandro.vargas167@yahoo.com,3156504481,1972-02-26,bogota,femenino,1230,bloques de construccion,jugueteria,350000,3,2023-05-11,daviplata,0%,Sí,no,no,sin novedad,ok,54,adulto
+1013,manuela jimenez,manuela.jimenez361@yahoo.com,3282337498,1970-10-28,cartagena,masculino,1025,gorra deportiva,moda,150000,3,2024-02-15,tarjeta de credito,0%,True,si,no,sin novedad,ok,55,adulto
+1145,laura rojas,laura.rojas863@yahoo.com,3108353544,1980-06-06,bucaramanga,masculino,1287,peluche grande,jugueteria,35000000,3,2024-02-20,daviplata,,True,no,no,reemplazado pc 95,ok,46,adulto
+1060,manuela perez,manuela.perez793@outlook.com,3178508214,1968-01-04,medellin,hombre,1124,bufanda de lana,moda,150000,5,2023-09-22,pse,,True,si,no,sin novedad,ok,58,adulto
+1018,gabriela suarez,gabriela.suarez241@gmail.com,3217240050,1968-02-09,cali,femenino,1034,camiseta algodon,moda,150000,2,2023-11-03,daviplata,20%,0,si,no,sin novedad,ok,58,adulto
+1180,carlos sanchez,carlos.sanchez447@outlook.com,3246199423,1975-07-08,bucaramanga,hombre,1356,set de brochas,belleza,350000,3,2024-03-15,pse,0%,0,si,no,sin novedad,ok,51,adulto
+1003,sebastian diaz,sebastian.diaz465@hotmail.com,3048932528,2004-11-28,cali,masculino,1005,perfume 50ml,belleza,1500000,3,2023-03-22,daviplata,0%,True,no,no,sin novedad,ok,21,joven adulto
+1010,natalia suarez,natalia.suarez498@outlook.com,3098069901,1996-04-09,medellin,femenino,1020,balon de futbol,deportes,60000,4,2024-07-03,tarjeta de credito,0%,0,no,no,sin novedad,ok,30,joven adulto
+1110,ricardo vargas,ricardo.vargas254@hotmail.com,3100780686,1973-05-13,cali,hombre,1220,perfume 50ml,belleza,150000,2,2024-10-10,daviplata,Sin dato,Sí,si,no,sin novedad,ok,53,adulto
+1063,paula hernandez,paula.hernandez892@gmail.com,5731252175,1996-09-16,bucaramanga,masculino,1128,mancuernas 5kg,deportes,35000,4,2024-03-20,efectivo,5%,Si,si,no,sin novedad,ok,29,joven adulto
+1076,carlos diaz,carlos.diaz940outlook.com,3244989266,1989-01-27,bogota,masculino,1150,peluche grande,jugueteria,60000,5,2024-05-08,tarjeta de credito,0%,True,si,no,sin novedad,sin email,37,adulto
+1112,julian ramirez,julian.ramirez789@yahoo.com,5732842222,1974-12-04,cali,masculino,1225,perfume 50ml,belleza,60000,5,2023-01-06,efectivo,0%,No,si,no,sin novedad,ok,51,adulto
+1124,carlos sanchez,carlos.sanchez781@gmail.com,3245911238,1972-03-17,bucaramanga,masculino,1248,juego de sabanas,hogar,1200000,4,2023-09-30,daviplata,0%,0,si,no,sin novedad,ok,54,adulto
+1168,diego lopez,diego.lopez556@gmail.com,3272457230,1978-02-24,cartagena,femenino,1336,organizador plastico,hogar,200000,4,2023-10-21,tarjeta de credito,5%,True,si,no,sin novedad,ok,48,adulto
+1076,carlos diaz,carlos.diaz940outlook.com,3244989266,1989-01-27,bogota,masculino,1152,audifonos bluetooth,tecnologia,35000,2,2023-02-27,pse,10%,Si,si,no,sin novedad,sin email,37,adulto
+1161,manuela suarez,manuela.suarez150@yahoo.com,3028497185,1979-12-08,cali,masculino,1318,power bank 10000mah,tecnologia,15000000,2,2024-10-16,daviplata,15%,no,si,no,reemplazado pc 95,ok,46,adulto
+1148,david jimenez,david.jimenez281@hotmail.com,3181511856,1965-12-27,bucaramanga,femenino,1292,bufanda de lana,moda,15000,4,2024-02-11,tarjeta de credito,0%,0,no,no,sin novedad,ok,60,adulto
+1117,fernando jimenez,fernando.jimenez924hotmail.com,3159271256,1979-03-14,cartagena,femenino,1234,perfume 50ml,belleza,2500000,1,2024-05-01,nequi,0%,no,no,no,sin novedad,sin email,47,adulto
+1006,andrea rodriguez,andrea.rodriguez872@gmail.com,3239909169,1981-02-06,cartagena,femenino,1011,camiseta algodon,moda,20000000,3,2024-11-10,nequi,0%,No,si,no,reemplazado pc 95,ok,45,adulto
+1142,andres moreno,andres.moreno608@gmail.com,3197232002,2005-08-27,medellin,femenino,1280,colchoneta yoga,deportes,350000,2,2023-01-09,nequi,0%,0,si,no,sin novedad,ok,21,joven adulto
+1033,laura rojas,laura.rojas197@outlook.com,3275758441,1986-09-13,cali,masculino,1072,colchoneta yoga,deportes,80000,1,2023-02-08,efectivo,0%,SI,si,no,sin novedad,ok,39,adulto
+1127,maria sanchez,maria.sanchez577@yahoo.com,5730613715,1960-05-15,cali,mujer,1253,lampara led,hogar,80000,5,2023-07-02,efectivo,,True,si,no,sin novedad,ok,66,mayor a 60 años
+1044,mariana martinez,mariana.martinez467@yahoo.com,3151401051,1968-10-03,bucaramanga,masculino,1093,cargador usb-c,tecnologia,45000,5,2023-11-30,efectivo,15%,Sí,si,no,sin novedad,ok,57,adulto
+1098,jorge jimenez,jorge.jimenez348@gmail.com,3150461735,1994-12-13,cali,femenino,1193,set de ollas,hogar,25000,2,2024-05-09,tarjeta debito,5%,0,si,no,sin novedad,ok,31,joven adulto
+1130,jorge martinez,jorge.martinez120@gmail.com,0000000000,2003-07-08,barranquilla,masculino,1258,lampara led,hogar,350000,1,2024-03-18,efectivo,10%,Si,si,no,sin novedad,ok,23,joven adulto
+1099,valentina gomez,valentina.gomez294@hotmail.com,3110988138,1970-07-22,cali,masculino,1196,mancuernas 5kg,deporte,1200000,4,2024-12-31,tarjeta de credito,20%,True,si,no,sin novedad,ok,56,adulto
+1069,mariana jimenez,mariana.jimenez544@gmail.com,3092216995,2003-04-29,barranquilla,femenino,1138,colchoneta yoga,deportes,31999999,4,2024-08-06,daviplata,0%,0,si,no,reemplazado pc 95,ok,23,joven adulto
+1131,david castro,david.castro819@outlook.com,3029716743,1967-09-25,bucaramanga,masculino,1261,mouse inalambrico,tecnologia,60000,2,2023-07-03,efectivo,0%,Sí,si,no,sin novedad,ok,58,adulto
+1020,luis rodriguez,luis.rodriguez909@hotmail.com,3061796405,1997-08-07,cali,femenino,1039,bloques de construccion,jugueteria,80000,5,2024-08-23,tarjeta debito,0%,True,si,no,sin novedad,ok,29,joven adulto
+1101,carlos jimenez,carlos.jimenez64@yahoo.com,3036965666,1992-03-24,cartagena,femenino,1202,muneca articulada,jugueteria,25000,4,2024-09-30,efectivo,10%,SI,si,no,sin novedad,ok,34,adulto
+1177,andrea gomez,andrea.gomez248@outlook.com,3262626582,1995-04-15,cali,masculino,1352,cargador usb-c,tecnologia,200000,4,2024-07-20,pse,0%,SI,no,no,sin novedad,ok,31,joven adulto
+1147,mariana castro,mariana.castro378@gmail.com,3028671632,1996-11-10,medellin,femenino,1291,botella termica,deporte,1500000,4,2024-02-05,tarjeta debito,0%,no,si,no,sin novedad,ok,29,joven adulto
+1127,maria sanchez,maria.sanchez577@yahoo.com,5730613715,1960-05-15,cali,mujer,1252,camiseta algodon,moda,80000,4,2023-10-03,daviplata,,no,si,no,sin novedad,ok,66,mayor a 60 años
+1092,camila castro,camila.castro191@gmail.com,3245762055,1961-12-05,bucaramanga,masculino,1184,set de ollas,hogar,500000,3,2023-08-07,tarjeta debito,20%,SI,si,no,sin novedad,ok,64,mayor a 60 años
+1077,manuela ramirez,manuela.ramirez175@outlook.com,3125799136,1976-04-25,medellin,masculino,1153,cargador usb-c,tecnologia,200000,4,2024-09-21,tarjeta de credito,0%,No,no,no,sin novedad,ok,50,adulto
+1158,laura rodriguez,laura.rodriguez994@outlook.com,3192617647,1970-08-28,cartagena,masculino,1313,audifonos bluetooth,tecnologia,25000,0,2024-08-09,pse,0%,SI,no,no,sin novedad,ok,56,adulto
+1165,felipe ortiz,felipe.ortiz966@yahoo.com,0000000000,1964-04-07,cali,masculino,1326,muneca articulada,jugueteria,60000,1,2023-09-12,tarjeta de credito,,Sí,si,no,sin novedad,ok,62,mayor a 60 años
+1097,mariana ramirez,mariana.ramirez533@outlook.com,5730107139,1980-11-16,cali,masculino,1192,gorra deportiva,moda,150000,4,2023-12-10,efectivo,0%,0,si,no,sin novedad,ok,45,adulto
+1022,manuela diaz,manuela.diaz852@gmail.com,3288516560,1993-06-06,medellin,masculino,1045,power bank 10000mah,tecnologia,45000,3,2024-08-04,tarjeta de credito,0%,Si,si,no,sin novedad,ok,33,adulto
+1139,manuela perez,manuela.perez128@gmail.com,3253194337,1979-11-15,barranquilla,masculino,1276,bufanda de lana,moda,20000000,1,2024-07-19,daviplata,0%,No,no,no,reemplazado pc 95,ok,46,adulto
+1005,jorge perez,jorge.perez885@outlook.com,3113338726,1968-10-29,barranquilla,masculino,1007,balon de futbol,deportes,150000,1,2023-04-06,tarjeta debito,0%,SI,si,no,sin novedad,ok,57,adulto
+1126,santiago rodriguez,santiago.rodriguez925@yahoo.com,5730572870,1983-08-30,barranquilla,masculino,1251,organizador plastico,hogar,60000,4,2024-03-28,daviplata,5%,No,no,no,sin novedad,ok,43,adulto
+1157,andrea torres,andrea.torres946@gmail.com,3220865675,1995-02-24,bucaramanga,mujer,1312,jean slim fit,moda,45000,1,2023-06-01,efectivo,0%,No,si,no,sin novedad,ok,31,joven adulto
+1035,gabriela martinez,gabriela.martinez64@gmail.com,5732713971,1973-06-11,cartagena,masculino,1076,organizador plastico,hogar,350000,3,2023-08-12,tarjeta de credito,Sin dato,No,si,no,sin novedad,ok,53,adulto
+1001,alejandro perez,alejandro.perez693@gmail.com,3089083863,1962-11-07,cali,femenino,1001,jean slim fit,moda,20000000,2,2024-01-25,pse,10%,Si,si,no,reemplazado pc 95,ok,63,mayor a 60 años
+1032,luis torres,luis.torres336@hotmail.com,5732879470,1986-11-05,cartagena,femenino,1069,audifonos bluetooth,tecnologia,150000,4,2024-04-27,daviplata,0%,no,si,no,sin novedad,ok,39,adulto
+1083,maria diaz,maria.diaz756@hotmail.com,1331320442,1975-04-22,bogota d.c.,masculino,1168,mouse inalambrico,tecnologia,80000,0,2023-05-20,pse,0%,no,si,no,sin novedad,ok,51,adulto
+1110,ricardo vargas,ricardo.vargas254@hotmail.com,3100780686,1973-05-13,cali,hombre,1219,teclado mecanico,tecnologia,45000,4,2024-10-25,tarjeta de credito,0%,no,si,no,sin novedad,ok,53,adulto
+1022,manuela diaz,manuela.diaz852@gmail.com,3288516560,1993-06-06,medellin,masculino,1043,camiseta algodon,moda,350000,4,2024-01-12,pse,20%,Sí,si,no,sin novedad,ok,33,adulto
+1174,manuela martinez,manuela.martinez750@hotmail.com,3055973714,1998-11-09,barranquilla,femenino,1346,perfume 50ml,belleza,17000000,5,2024-01-06,efectivo,0%,SI,no,no,reemplazado pc 95,ok,27,joven adulto
+1034,mariana ramirez,mariana.ramirez466@yahoo.com,3015274205,1972-01-15,bogota,femenino,1073,muneca articulada,jugueteria,350000,4,2023-07-09,efectivo,0%,True,si,no,sin novedad,ok,54,adulto
+1013,manuela jimenez,manuela.jimenez361@yahoo.com,3282337498,1970-10-28,cartagena,masculino,1024,mouse inalambrico,tecnologia,15000000,1,2023-02-25,pse,0%,No,si,no,reemplazado pc 95,ok,55,adulto
+1094,gabriela mendoza,gabriela.mendoza795@outlook.com,3299880817,1988-01-27,cali,femenino,1186,juego de sabanas,hogar,200000,2,2023-10-20,tarjeta debito,0%,Sí,no,no,sin novedad,ok,38,adulto
+1175,carlos lopez,carlos.lopez893@outlook.com,3154235677,1976-07-06,barranquilla,masculino,1349,botella termica,deportes,120000,2,2024-01-08,pse,0%,no,si,no,sin novedad,ok,50,adulto
+1051,maria rojas,maria.rojas725gmail.com,3242524105,1991-02-07,bogota,femenino,1104,set de brochas,belleza,1200000,4,2024-08-03,pse,0%,No,si,no,sin novedad,sin email,35,adulto
+1105,carlos jimenez,carlos.jimenez956@gmail.com,3277661830,1989-08-03,barranquilla,masculino,1212,muneca articulada,jugueteria,200000,2,2024-06-12,efectivo,,0,si,no,sin novedad,ok,37,adulto
+1032,luis torres,luis.torres336@hotmail.com,5732879470,1986-11-05,cartagena,femenino,1068,crema facial,belleza,350000,5,2024-06-20,efectivo,0%,Si,si,no,sin novedad,ok,39,adulto
+1014,carlos gonzalez,carlos.gonzalez305@outlook.com,5730334123,1965-05-27,barranquilla,masculino,1026,teclado mecanico,tecnologia,15000000,1,2024-04-09,daviplata,0%,SI,no,no,reemplazado pc 95,ok,61,mayor a 60 años
+1099,valentina gomez,valentina.gomez294@hotmail.com,3110988138,1970-07-22,cali,masculino,1197,mouse inalambrico,tecnologia,500000,4,2024-09-23,pse,15%,0,si,no,sin novedad,ok,56,adulto
+1088,andres rodriguez,andres.rodriguez844@gmail.com,3211386338,1987-04-07,bucaramanga,masculino,1176,bufanda de lana,moda,80000,4,2024-07-12,efectivo,15%,0,si,no,sin novedad,ok,39,adulto
